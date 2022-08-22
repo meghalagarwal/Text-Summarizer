@@ -1,0 +1,1 @@
+Objective is to create a model that can summarize the whole content into a paragragh without changing the meaning of the marterial.
